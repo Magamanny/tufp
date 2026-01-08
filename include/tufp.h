@@ -1,7 +1,7 @@
 #ifndef TUFP_H
 #define TUFP_H
 #define TUFP_MAX_FIELDS 15
-#define TUGP_MAX_FIELD_SIZE 25
+#define TUGP_MAX_FIELD_SIZE 30
 // "TUFP" (Text-based UART Framed Protocol)
 typedef struct tufp_st{
   int state;
